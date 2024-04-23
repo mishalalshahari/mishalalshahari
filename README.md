@@ -1,6 +1,8 @@
 ### Hi there, 👋
+
 <h3 align="center">I'm Mishal Al Shahari and this profile showcases my projects and my learning related to full stack development.</h3>
 <h3 align="center">Feel free to fork!!</h3>
+
 - 🔭 I’m currently working on Full Stack Development i.e. React.js, Node.js, Spring Boot, etc.
 - 🌱 I’m a Machine Learning enthusiast.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mishalalshahari/">LinkedIn.
