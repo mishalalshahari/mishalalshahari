@@ -9,8 +9,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Pro
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight" alt="mesiddhantcodes" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact">
+<div style="text-align: center;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight" alt="mishalalshahari" />
+</div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact" alt="mishalalshahari"/>
 
 <br>
 
