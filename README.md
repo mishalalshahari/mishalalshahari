@@ -12,6 +12,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight" alt="mesiddhantcodes" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact">
 
+<br>
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mishalalshahari&style=for-the-badge">
 </a>
