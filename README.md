@@ -13,7 +13,7 @@
     &nbsp;&nbsp;
     <img width="300" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact" alt="mishalalshahari"/>
 </p>
-<h4 align="left">Feel free to fork!!</h4>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mishalalshahari&style=for-the-badge">
 </a>
+<h4 align="left">Feel free to fork!!</h4>
