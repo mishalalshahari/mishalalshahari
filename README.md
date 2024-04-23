@@ -1,7 +1,6 @@
 ### Hi there, 👋
 
-<h3 align="center">I'm Mishal Al Shahari and this profile showcases my projects and my learnings related to full stack development.</h3>
-<h3 align="center">Feel free to fork!!</h3>
+<h4 align="center">I'm Mishal Al Shahari and this profile showcases my projects and my learnings related to full stack development.</h4>
 
 - 🔭 I’m currently working on Full Stack Development i.e. React.js, Node.js, Spring Boot, etc.
 - 🌱 I’m a Machine Learning enthusiast.
@@ -9,14 +8,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Pro
 
-<div style="text-align: center;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight" alt="mishalalshahari" />
-</div>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact" alt="mishalalshahari"/>
-
-<br>
-
+<p align="center">
+    <img width="530" height="300" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight"  alt="mishalalshahari" />
+    &nbsp;&nbsp;
+    <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact" alt="mishalalshahari"/>
+</p>
+<h4 align="left">Feel free to fork!!</h4>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mishalalshahari&style=for-the-badge">
 </a>
