@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I'm Pro
 
 <p align="center">
-    <img width="530" height="300" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight"  alt="mishalalshahari" />
+    <img width="397.5" height="225" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight"  alt="mishalalshahari" />
     &nbsp;&nbsp;
-    <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact" alt="mishalalshahari"/>
+    <img width="300" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalalshahari&theme=dark&layout=compact" alt="mishalalshahari"/>
 </p>
 <h4 align="left">Feel free to fork!!</h4>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
