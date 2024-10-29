@@ -6,7 +6,7 @@
 - 🌱 I’m a Machine Learning enthusiast.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mishalalshahari/">LinkedIn.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Pro
+- ⚡ Fun fact: I'm Noob
 
 <p align="center">
     <img width="397.5" height="225" src="https://github-readme-stats.vercel.app/api?username=mishalalshahari&show_icons=true&locale=en&theme=tokyonight"  alt="mishalalshahari" />
